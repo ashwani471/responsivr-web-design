@@ -214,7 +214,7 @@ padding: 10px;
     height:18rem;
 }
 .portfolio-img:hover{
-    
+    opacity: 0.2;
 }
 .portfolio-img2{
     height:18rem;
